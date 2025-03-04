@@ -48,7 +48,7 @@ projeto_python_mba/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-python-mba.git
+   git clone https://github.com/digaosss70/projeto_pyhton_mba_ed.git
    cd projeto-python-mba
 
 2. **Instale as dependências**:
