@@ -54,8 +54,8 @@ projeto_python_mba/
 2. **Instale as dependências**:
   ```bash
    pip install -r requirements.txt
-
-2. **Execute o pipeline**:
+   
+3. **Execute o pipeline**:
   ```bash
    python src/main.py   
 
