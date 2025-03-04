@@ -51,14 +51,12 @@ projeto_python_mba/
    git clone https://github.com/seu-usuario/projeto-python-mba.git
    cd projeto-python-mba
 
-2. **Clone o repositório**:
+2. **Instale as dependências**:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-python-mba.git
-   cd projeto-python-mba
+   pip install -r requirements.txt
 
-3. **Clone o repositório**:
+3. **Execute o pipeline**:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-python-mba.git
-   cd projeto-python-mba 
+   python src/main.py 
 
 
