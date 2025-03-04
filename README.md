@@ -29,14 +29,11 @@ projeto_python_mba/
 │ ├── main.py
 │ ├── DataClean.py
 │ ├── Transform.py
-│ └── utils/
-│ └── helpers.py # Funções auxiliares, se necessário
 │
 ├── data/
 │ ├── raw/ # Dados brutos
 │ ├── bronze/ # Dados após a limpeza (DataClean.py)
 │ ├── silver/ # Dados após transformação (Transform.py)
-│ └── gold/ # Dados finais (se necessário)
 │
 ├── requirements.txt # Dependências do projeto
 ├── README.md # Documentação do projeto
